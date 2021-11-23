@@ -1,0 +1,1 @@
+FInallised moving object
